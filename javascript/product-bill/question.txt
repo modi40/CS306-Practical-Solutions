@@ -1,0 +1,10 @@
+Original Question:
+Write a JavaScript program using an arrow function to calculate the total price of a product. Display the bill using template literals and string interpolation.
+
+Keywords:
+arrow function
+total price
+product
+bill
+template literals
+string interpolation

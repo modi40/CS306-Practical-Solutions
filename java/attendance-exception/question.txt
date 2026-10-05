@@ -1,0 +1,13 @@
+Original Question:
+Define a class Student with data members student_name, student_rollno, total_lectures, attended_lectures. Create an object of Student. If attendance percentage is less than 75%, throw a user-defined exception "Student is Not Eligible for Exam", otherwise display student details.
+
+Keywords:
+Student
+student_name
+student_rollno
+total_lectures
+attended_lectures
+attendance percentage
+75%
+Student is Not Eligible for Exam
+exception

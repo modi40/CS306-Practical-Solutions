@@ -1,0 +1,12 @@
+Original Question:
+Define a class MyNumber having one private integer data member. Write a default constructor initialize it to 0 and another constructor to initialize it to a value. Write methods isNegative, isPositive, isOdd, isEven. Use command line argument to pass a value to the object and perform the above operations.
+
+Keywords:
+MyNumber
+private integer
+default constructor
+isNegative
+isPositive
+isOdd
+isEven
+command line argument

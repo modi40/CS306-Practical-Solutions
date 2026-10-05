@@ -1,0 +1,10 @@
+Original Question:
+Write a program to accept a number from the user, if number is zero then throw user defined exception "Number is 0" otherwise check whether no is prime or not (Use static keyword)
+
+Keywords:
+Number is 0
+prime
+static keyword
+user defined exception
+exception
+number from the user

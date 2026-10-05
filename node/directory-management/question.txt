@@ -1,0 +1,15 @@
+Original Question:
+Write a Node.js program to perform directory management operations such as creating, listing, renaming and deleting directories.
+
+Keywords:
+directory management
+creating
+listing
+renaming
+deleting
+directories
+fs
+mkdir
+readdir
+rename
+rmdir

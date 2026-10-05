@@ -1,0 +1,9 @@
+Original Question:
+Write a JavaScript program using an arrow function to calculate the total and average marks of three subjects. Display the result using template literals
+
+Keywords:
+arrow function
+total and average marks
+three subjects
+template literals
+result

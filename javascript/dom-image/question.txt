@@ -1,0 +1,10 @@
+Original Question:
+Create a webpage using JavaScript DOM manipulation and event handling with an image and a button. When the button is clicked, replace the displayed image with another image.
+
+Keywords:
+DOM manipulation
+event handling
+image
+button
+replace
+clicked

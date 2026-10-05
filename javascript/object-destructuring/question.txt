@@ -1,0 +1,11 @@
+Original Question:
+Create an object containing employee details such as name, department, and salary. Use object destructuring to extract and display the values
+
+Keywords:
+employee details
+name
+department
+salary
+object destructuring
+extract
+display

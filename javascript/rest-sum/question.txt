@@ -1,0 +1,8 @@
+Original Question:
+Write a JavaScript program using a rest parameter to accept any number of values and calculate their sum
+
+Keywords:
+rest parameter
+any number of values
+calculate their sum
+sum

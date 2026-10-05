@@ -1,0 +1,11 @@
+Original Question:
+Write a program which define class Employee with data member as id, name and salary Store the information of 'n' employees and display the name of employee having maximum salary (Use array of object)
+
+Keywords:
+Employee
+id
+name
+salary
+maximum salary
+array of object
+employees

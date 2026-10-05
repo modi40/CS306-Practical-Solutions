@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background: rgb(238, 242, 247);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+.form-card {
+    background: rgb(255, 255, 255);
+    width: 420px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+}
+h1 {
+    font-size: 24px;
+    text-align: center;
+    color: rgb(44, 62, 80);
+    margin-bottom: 20px;
+}
+.field {
+    margin-bottom: 16px;
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: rgb(52, 73, 94);
+}
+input[type="number"],
+input[type="text"],
+input[type="email"],
+select {
+    width: 100%;
+    padding: 8px 12px;
+    border: 1px solid rgb(189, 195, 199);
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+input:focus, select:focus {
+    outline: none;
+    border-color: rgb(52, 152, 219);
+}
+.submit-btn {
+    width: 100%;
+    background-color: rgb(46, 204, 113);
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.submit-btn:hover {
+    background-color: rgb(39, 174, 96);
+}

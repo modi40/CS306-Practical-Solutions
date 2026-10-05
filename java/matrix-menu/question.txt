@@ -1,0 +1,15 @@
+Original Question:
+Write a menu driven program to perform the following operations on multidimensional array ie matrix :
+Addition
+Multiplication
+Transpose of any matrix.
+Exit
+
+Keywords:
+matrix
+multidimensional array
+Addition
+Multiplication
+Transpose
+Exit
+menu driven

@@ -1,0 +1,10 @@
+Original Question:
+Write a Java program to print the sum of elements of the array. Also display array elements in ascending order.
+
+Keywords:
+array
+sum
+ascending
+sort
+elements
+order

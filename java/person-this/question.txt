@@ -1,0 +1,11 @@
+Original Question:
+Write a program to define class Person with data members as Personname,Aadharno, Panno. Accept information for 5 objects and display appropriate information (use this keyword).
+
+Keywords:
+Person
+Personname
+Aadharno
+Panno
+5 objects
+this keyword
+display appropriate information

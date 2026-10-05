@@ -1,0 +1,10 @@
+Original Question:
+Write a JavaScript program using a Promise to divide two numbers. If the denominator is zero, reject the Promise and handle the error.
+
+Keywords:
+Promise
+divide two numbers
+denominator is zero
+reject
+handle the error
+division

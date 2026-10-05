@@ -1,0 +1,10 @@
+Original Question:
+Write a Node.js program using the fs module to read and append file asynchronously. Display appropriate success and error messages.
+
+Keywords:
+fs module
+read and append
+asynchronously
+success and error messages
+read
+append

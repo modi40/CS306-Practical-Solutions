@@ -1,0 +1,11 @@
+Original Question:
+Create a JavaScript module containing an arithmetic operation functions.
+Export the function and import it into another JavaScript file to perform all operations.
+
+Keywords:
+JavaScript module
+arithmetic operation functions
+Export
+import
+another JavaScript file
+all operations

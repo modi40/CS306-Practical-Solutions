@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM Image Replace</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: rgb(247, 250, 252);
+            padding: 50px;
+        }
+        .image-container {
+            margin: 20px auto;
+            max-width: 400px;
+        }
+        img {
+            width: 300px;
+            height: 200px;
+            border-radius: 8px;
+            border: 2px solid rgb(203, 213, 224);
+        }
+        button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 16px;
+            background: rgb(66, 153, 225);
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background: rgb(49, 130, 206);
+        }
+    </style>
+</head>
+<body>
+    <h2>JavaScript DOM Image Replacement</h2>
+    <div class="image-container">
+        <img id="displayImage" src="data:image/svg+xml;utf8,<svg width='300' height='200'><rect width='300' height='200' fill='rgb(52,152,219)'/><text x='150' y='100' fill='white' font-size='24' text-anchor='middle'>Image 1 (Blue)</text></svg>" alt="Current Display">
+    </div>
+    <button id="replaceBtn">Replace Image</button>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+Original Question:
+Write a program to create parent class College (cno, cname, caddr) and derived class Department (dno, dname) from College. Write a necessary methods to display College details.
+
+Keywords:
+College
+cno
+cname
+caddr
+Department
+dno
+dname
+parent class
+derived class
+display College details

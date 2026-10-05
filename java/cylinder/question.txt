@@ -1,0 +1,12 @@
+Original Question:
+Create an abstract class Shape with methods area & volume. Derive a class Cylinder (radius, height). Calculate area and volume
+
+Keywords:
+Shape
+area
+volume
+Cylinder
+radius
+height
+abstract class
+Derive

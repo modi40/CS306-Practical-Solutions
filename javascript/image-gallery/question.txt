@@ -1,0 +1,10 @@
+Original Question:
+Create an image gallery using HTML5 and CSS3 with hover effects, responsive images and Flexbox/Grid layout.
+
+Keywords:
+image gallery
+HTML5
+CSS3
+hover effects
+responsive images
+Flexbox/Grid layout

@@ -1,0 +1,11 @@
+Original Question:
+Write a package game which will have 2 classes Indoor & Outdoor. Use a function display () to generate the list of players for the specific game. Use default & parameterized constructor
+
+Keywords:
+game
+package
+Indoor
+Outdoor
+display
+players
+constructor

@@ -1,0 +1,13 @@
+Original Question:
+Write a program using interface, create a class Product (product_id, product_name, product_cost, product_quantity) default and parameterized constructor. Create objects of class product and display the contents of each object and Also display the object count.
+
+Keywords:
+interface
+Product
+product_id
+product_name
+product_cost
+product_quantity
+default and parameterized constructor
+object count
+objects of class product

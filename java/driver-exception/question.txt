@@ -1,0 +1,13 @@
+Original Question:
+Write a class Driver with attributes license_no, name, address and age. Initialize values through the parameterized constructor. If age of Driver is less than 18 then user-defined exception should be generated —Age is below 18 years—
+
+Keywords:
+Driver
+license_no
+name
+address
+age
+parameterized constructor
+Age is below 18 years
+user-defined exception
+exception

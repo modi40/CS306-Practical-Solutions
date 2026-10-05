@@ -1,0 +1,13 @@
+Original Question:
+Write a program to create a super class Vehicle having members Company and price. Derive two different classes LightMotorVehicle (mileage) and HeavyMotorVehicle (capacity_in_tons). Accept the information for "n" vehicles and display the information in appropriate form. While taking data, ask user about the type of vehicle first.
+
+Keywords:
+Vehicle
+Company
+price
+LightMotorVehicle
+mileage
+HeavyMotorVehicle
+capacity_in_tons
+super class
+n vehicles

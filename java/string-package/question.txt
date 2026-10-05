@@ -1,0 +1,11 @@
+Original Question:
+Write a package for String operation which has two classes Con and Comp. Con class has to concatenate two strings and comp class compares two strings. Also display proper messages on execution.
+
+Keywords:
+package
+String operation
+Con
+Comp
+concatenate
+compares
+strings

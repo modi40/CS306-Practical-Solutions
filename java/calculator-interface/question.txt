@@ -1,0 +1,10 @@
+Original Question:
+Write a Java program that defines an interface Calculator containing methods add() and subtract() and implements it in class SimpleCalc
+
+Keywords:
+Calculator
+interface
+add
+subtract
+SimpleCalc
+implements

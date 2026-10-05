@@ -1,0 +1,9 @@
+Original Question:
+Write a JavaScript program to store student information and marks in variables and generate a formatted student report using template literals
+
+Keywords:
+student information
+marks
+variables
+formatted student report
+template literals

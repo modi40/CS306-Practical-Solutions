@@ -1,0 +1,13 @@
+Original Question:
+Define a class MyDate(Day, Month, year) with methods to accept and display a MyDateobject.Accept date as dd,mm,yyyy. Throw user defined exception "InvalidDateException" if the date is invalid.
+
+Keywords:
+MyDate
+Day
+Month
+year
+accept
+display
+dd,mm,yyyy
+InvalidDateException
+exception

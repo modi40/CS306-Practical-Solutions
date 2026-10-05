@@ -1,0 +1,12 @@
+Original Question:
+Create a responsive webpage using CSS Flexbox for a college homepage containing header, navigation, content and footer. Use appropriate Flexbox alignment and distribution properties
+
+Keywords:
+Flexbox
+college homepage
+header
+navigation
+content
+footer
+alignment
+distribution

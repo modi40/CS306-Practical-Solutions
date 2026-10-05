@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background: rgb(237, 242, 247);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+.list-container {
+    background: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 350px;
+}
+h2 {
+    text-align: center;
+    color: rgb(45, 55, 72);
+    margin-bottom: 20px;
+}
+.language-list {
+    list-style-type: square;
+    padding-left: 20px;
+}
+.language-list li {
+    padding: 10px;
+    margin-bottom: 8px;
+    font-size: 16px;
+    color: rgb(74, 85, 104);
+    border-radius: 4px;
+}
+.language-list li:first-child {
+    background-color: rgb(72, 187, 120);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 18px;
+}
+.language-list li:last-child {
+    background-color: rgb(237, 137, 54);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 18px;
+}

@@ -1,0 +1,11 @@
+Original Question:
+Design a College/School Registration Form using HTML5 and CSS3 and apply appropriate HTML5 validation attributes.
+
+Keywords:
+College/School Registration Form
+HTML5
+CSS3
+validation attributes
+required
+pattern
+form

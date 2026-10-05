@@ -1,0 +1,11 @@
+Original Question:
+Write a Node.js program to create, write, read and append data to a file using the fs module.
+
+Keywords:
+create
+write
+read
+append
+fs module
+data to a file
+fs

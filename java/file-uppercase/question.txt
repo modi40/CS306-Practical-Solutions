@@ -1,0 +1,10 @@
+Original Question:
+Write a program to read the contents of "abc.txt" file. Display the contents of file in uppercase as output.
+
+Keywords:
+abc.txt
+read
+contents
+uppercase
+file
+output

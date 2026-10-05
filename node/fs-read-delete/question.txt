@@ -1,0 +1,10 @@
+Original Question:
+Write a Node.js program using the fs module to read and delete file asynchronously. Display appropriate success and error messages.
+
+Keywords:
+fs module
+read and delete
+asynchronously
+success and error messages
+read
+delete

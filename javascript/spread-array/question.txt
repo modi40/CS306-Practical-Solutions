@@ -1,0 +1,9 @@
+Original Question:
+Write a JavaScript program to create a copy of an existing array using the spread operator and add a new element to the copied array.
+
+Keywords:
+copy
+existing array
+spread operator
+new element
+copied array

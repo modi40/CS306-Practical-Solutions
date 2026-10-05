@@ -1,0 +1,10 @@
+Original Question:
+Write a program for multilevel inheritance such that Country is inherited from Continent. State is inherited from Country. Display the place, State, Country and Continent.
+
+Keywords:
+multilevel inheritance
+Continent
+Country
+State
+place
+inherited

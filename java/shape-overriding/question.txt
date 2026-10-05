@@ -1,0 +1,12 @@
+Original Question:
+Write a program to create an abstract class named Shape that contains two integers and an empty method named printArea(). Provide three classes named Rectangle, Triangle and Circle such that each one of the classes extends the class Shape. Each one of the classes contain only the method printArea() that prints the area of the given shape. (use method overriding).
+
+Keywords:
+Shape
+printArea
+Rectangle
+Triangle
+Circle
+abstract class
+method overriding
+two integers

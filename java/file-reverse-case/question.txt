@@ -1,0 +1,9 @@
+Original Question:
+Write a program to accept a text file from user and display the contents of a file in reverse order and change its case.
+
+Keywords:
+text file
+reverse order
+change its case
+contents
+FileReader

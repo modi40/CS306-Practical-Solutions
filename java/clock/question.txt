@@ -1,0 +1,16 @@
+Original Question:
+Define a "Clock" class that does the following;
+Accept Hours, Minutes and Seconds
+Check the validity of numbers
+Set the time to AM/PM mode
+Use the necessary constructors and methods to do the above task
+
+Keywords:
+Clock
+Hours
+Minutes
+Seconds
+validity
+AM/PM mode
+constructors
+methods

@@ -1,0 +1,8 @@
+Original Question:
+Write a JavaScript program to swap two numbers without using a third variable using array destructuring.
+
+Keywords:
+swap two numbers
+without using a third variable
+array destructuring
+swap

@@ -1,0 +1,10 @@
+Original Question:
+Design a Student Registration Form using HTML5 and CSS3 and apply appropriate HTML5 validation attributes.
+
+Keywords:
+Student Registration Form
+HTML5
+CSS3
+validation attributes
+student
+registration

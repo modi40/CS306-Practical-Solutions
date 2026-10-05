@@ -1,0 +1,11 @@
+Original Question:
+Write a Java program to accept a file name from the user and count the number of characters, words, and lines present in the file.
+
+Keywords:
+file name
+count
+characters
+words
+lines
+BufferedReader
+present in the file

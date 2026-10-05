@@ -1,0 +1,11 @@
+Original Question:
+Create a webpage containing a button and link. Change their appearance when the mouse pointer moves over them. (Use :hover Pseudo-Class)
+
+Keywords:
+button
+link
+appearance
+mouse pointer
+hover
+:hover Pseudo-Class
+Pseudo-Class

@@ -1,0 +1,10 @@
+Original Question:
+Write a JavaScript program to demonstrate Arrow Functions for addition, subtraction, multiplication and division.
+
+Keywords:
+Arrow Functions
+addition
+subtraction
+multiplication
+division
+demonstrate

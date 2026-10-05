@@ -1,0 +1,10 @@
+Original Question:
+Write a Node.js program using the fs module to create and read file asynchronously. Display appropriate success and error messages.
+
+Keywords:
+fs module
+create and read
+asynchronously
+success and error messages
+create
+read

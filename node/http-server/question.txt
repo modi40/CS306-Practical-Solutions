@@ -1,0 +1,10 @@
+Original Question:
+Create a Node.js HTTP server that sends an appropriate response to a client request.
+
+Keywords:
+Node.js
+HTTP server
+client request
+response
+http
+createServer

@@ -1,0 +1,12 @@
+Original Question:
+Create a Node.js mini file-management application using the fs  modules that allows the user to create, read, update, rename and delete text file.
+
+Keywords:
+mini file-management
+fs modules
+create
+read
+update
+rename
+delete
+text file
